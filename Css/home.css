@@ -1,0 +1,52 @@
+.custNav {
+  font-weight: bold;
+}
+
+.navBtn {
+  margin-left: 60%;
+}
+
+.navBtn a {
+  font-weight: 500;
+}
+
+.searchBtn {
+  background-color: #fb345a;
+  color: white;
+  margin-top: 10px;
+  width: 95%;
+  height: 45px;
+  margin-left: 20px;
+}
+
+.custSection {
+  margin-top: 30px;
+}
+
+.subSection1 {
+  height: 25rem;
+  margin-top: 40px;
+  margin-right: -50px;
+  border-radius: 10px;
+}
+
+.subSection2 {
+  width: 100%;
+  height: 500px;
+}
+
+.subSection2 img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+}
+
+.Section2 {
+  width: 100%;
+  height: 400px;
+  background-image: url(https://a0.muscache.com/im/pictures/2595054e-d1d9-4fde-8046-58d51fcb3164.jpg?im_w=1440);
+  background-size: cover;
+  margin-top: 25px;
+  border-radius: 10px;
+}
+/*# sourceMappingURL=home.css.map */
