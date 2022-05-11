@@ -75,4 +75,37 @@
     margin-left: 10px;
 }
 
-.
+.ndImg{
+    width: 280px;
+    height: 210px;
+    border-radius: 10px;
+}
+
+.showBtn{
+    padding: 10px 7px;
+}
+
+.showBtn:hover{
+    color: black;
+    background: white;
+}
+
+.Fbtn{
+    color: black;
+    text-decoration: none;
+}
+
+.Fbtn:hover{
+    color: black;
+}
+
+.FooterBtn{
+    color: black;
+    text-decoration: none;
+}
+
+.FooterBtn:hover{
+    color: black;
+    text-decoration: underline;
+    margin: 4px;
+}

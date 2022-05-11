@@ -1,0 +1,24 @@
+.custNav {
+  font-weight: bold;
+}
+
+.navBtn {
+  margin-left: 60%;
+}
+
+.navBtn a {
+  font-weight: 500;
+}
+
+.profileBtn {
+  border: 0.5px solid black;
+  margin-left: 15px;
+  padding: 5px 20px;
+  border-radius: 25px;
+}
+
+.subProBtn {
+  margin-right: 10px;
+  margin-left: 4px;
+}
+/*# sourceMappingURL=login.css.map */
