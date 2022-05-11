@@ -21,4 +21,15 @@
   margin-right: 10px;
   margin-left: 4px;
 }
+
+.mainSection {
+  border: 0.5px solid black;
+  border-radius: 10px;
+}
+
+.LoginBtn {
+  background-color: #fb345a;
+  color: white;
+  margin-bottom: 30px;
+}
 /*# sourceMappingURL=login.css.map */
