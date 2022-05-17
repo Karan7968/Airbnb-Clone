@@ -37,4 +37,48 @@
   color: black;
   background-color: rgba(0, 0, 0, 0.1);
 }
+
+.footer {
+  background-color: #f7f7f7;
+}
+
+.fBtn a {
+  display: block;
+  text-decoration: none;
+  color: #000000;
+  font-size: 14px;
+  margin-top: 8px;
+}
+
+.left a {
+  text-decoration: none;
+  color: #000000;
+  font-size: 14px;
+}
+
+.left a:hover {
+  text-decoration: underline;
+}
+
+.right {
+  float: right;
+}
+
+.btnGroup1 {
+  margin-right: 25px;
+}
+
+.btnGroup1 a {
+  text-decoration: none;
+  color: #000000;
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.btnGroup2 a {
+  text-decoration: none;
+  color: #000000;
+  font-size: 14px;
+  margin-right: 10px;
+}
 /*# sourceMappingURL=login.css.map */
