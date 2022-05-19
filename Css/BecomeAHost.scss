@@ -50,3 +50,69 @@
         font-size: 60px;
     }
 }
+
+// cardImg
+
+.CardImg .col{
+    width: 100%;
+    height: 300px;
+}
+
+.cardImgCh{
+    width: 100%;
+}
+
+.signImg{
+    height: 200px;
+    width: 350px;
+    img{
+        margin-top: 20px;
+    }
+}
+
+.Bigh1{
+    font-size: 60px;
+}
+
+.Bigh1 a{
+    color: black;
+}
+
+// next section
+.nextSection{
+    width: 90%;
+    height: 450px;
+    background-color: #fb345a;
+    border-radius: 15px;
+    color: white;
+}
+
+// mybtn
+
+.myBtn{
+    padding: 8px 15px;
+    border-radius: 7px;
+    font-weight: 600;
+}
+
+.myBtn:hover{
+    background-color: darkslategrey;
+    color: white;
+}
+
+// next section 2
+
+.nextSection2{
+    width: 90%;
+    height: 700px;
+    background-image: url(https://a0.muscache.com/im/pictures/93ef1829-62d1-4349-8b4a-b02ebc650a25.jpg?im_w=2560&im_q=highq);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px;
+    color: white;
+}
+
+.myBtn2{
+    font-weight: 600;
+    padding: 8px 35px;
+}
