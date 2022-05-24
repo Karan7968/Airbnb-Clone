@@ -1,0 +1,49 @@
+// nav bar
+.custNav {
+    font-weight: bold;
+  }
+  
+  .navBtn {
+    margin-left: 60%;
+  }
+  
+  .navBtn a {
+    font-weight: 500;
+  }
+  
+  .profileBtn {
+    border: 0.5px solid black;
+    margin-left: 15px;
+    padding: 5px 20px;
+    border-radius: 25px;
+  }
+  
+  .subProBtn {
+    margin-right: 10px;
+    margin-left: 4px;
+  }
+
+.navText{
+    font-size: 16px;
+}
+
+// input btn
+.inpBtn{
+    width: 350px;
+    height: 60px;
+}
+
+.mainInput{
+    border-radius: 25px;
+}
+
+.searchBtn{
+   padding: 15px;
+   border-radius: 50%;
+   background-color: #fb345a;
+}
+
+// button group
+.mainBtnGrp a:hover{
+    background-color: #F7F7F7;
+}
