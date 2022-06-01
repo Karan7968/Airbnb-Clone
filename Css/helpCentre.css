@@ -110,4 +110,67 @@
 .articleAnch:hover {
   color: black;
 }
+
+.cardCol {
+  width: 100%;
+  height: 300px;
+  border-radius: 15px;
+}
+
+.cardCol img {
+  width: 100%;
+  height: 240px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+
+.cardCol a {
+  color: white;
+  text-decoration: none;
+  font-size: small;
+}
+
+.footer {
+  background-color: #f7f7f7;
+}
+
+.fBtn a {
+  display: block;
+  text-decoration: none;
+  color: #000000;
+  font-size: 14px;
+  margin-top: 8px;
+}
+
+.left a {
+  text-decoration: none;
+  color: #000000;
+  font-size: 14px;
+}
+
+.left a:hover {
+  text-decoration: underline;
+}
+
+.right {
+  float: right;
+}
+
+.btnGroup1 {
+  margin-right: 25px;
+}
+
+.btnGroup1 a {
+  text-decoration: none;
+  color: #000000;
+  font-size: 14px;
+  margin-right: 10px;
+}
+
+.btnGroup2 a {
+  text-decoration: none;
+  color: #000000;
+  font-size: 14px;
+  margin-right: 10px;
+}
 /*# sourceMappingURL=helpCentre.css.map */
